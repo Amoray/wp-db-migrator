@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: DB migrator
+ * Plugin URI: https://github.com/Amoray/wp-db-migratorg
  * Description: Copies queries and saves them to a file. In wp-config add define( 'SAVEQUERIES', true );
  * Version: 0.1
  * Author: Amelia Lang
